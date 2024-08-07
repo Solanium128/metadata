@@ -1,12 +1,12 @@
 {
-  "name": "BUSTER",
-  "symbol": "BUSTER",
-  "description": "Buster, here to swim', here to stay. The Swimming Dog is now live on SOLANA!  No bullshit, just fun !",
-  "image": "https://raw.githubusercontent.com/Solanium128/metadata/main/buster.jpg",
+  "name": "BANG",
+  "symbol": "BANG",
+  "description": "FREE BANGLADESH !!! ",
+  "image": "https://raw.githubusercontent.com/Solanium128/metadata/main/bang.png",
   "extensions":
 	{
-        "twitter": "https://x.com/BusterOnSol",
-        "website":  "https://bustersol.com",
+        "twitter": "https://x.com/",
+        "website":  "https://google.com",
         "telegram": "https://telegram.org"
 	}
 }
