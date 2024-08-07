@@ -1,6 +1,12 @@
 {
-  "name": "Meowth",
-  "symbol": "MEOWTH",
-  "description": "MEOWTHHHHHH",
-  "image": "https://raw.githubusercontent.com/Solanium128/metadata/main/miaous.png"
+  "name": "BUSTER",
+  "symbol": "BUSTER",
+  "description": "Buster, here to swim', here to stay. The Swimming Dog is now live on SOLANA!  No bullshit, just fun !",
+  "image": "https://raw.githubusercontent.com/Solanium128/metadata/main/buster.jpg",
+  "extensions":
+	{
+        "twitter": "https://x.com/BusterOnSol",
+        "website":  "https://bustersol.com",
+        "telegram": "https://telegram.org"
+	}
 }
